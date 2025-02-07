@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://i.pinimg.com/474x/b2/6a/ac/b26aac9e27b62fa97df88df0f1d9ab85.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+
+.div1 {
+    border: 5px solid gray;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    margin-top: 240px;
+    padding-top: 20px;
+}
+
+.label1 {
+    color: brown;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input1 {
+    color: blue;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20px;
+}
+
+.label2 {
+    color: brown;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input2 {
+    color: blue;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20px;
+}
+
+.a1 {
+    color: blueviolet;
+    padding-left: 20px;
+}
+
+.a2 {
+    color: blueviolet;
+    justify-content: end;
+}
+
